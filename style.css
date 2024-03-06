@@ -1,14 +1,6 @@
-#Account{
-text-transform: none;
-background-color: black;
-border:solid 4px;
-text-align: center;
-margin-right: 85%;
-border-radius: 34%;
-
-}
-#body{
-    margin-left: 30%;
-
-    
+#Container{
+   width: 550px;
+    height: 1500px;
+    border: solid 1px;
+    background-color: black;
 }
